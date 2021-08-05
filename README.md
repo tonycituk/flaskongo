@@ -15,27 +15,27 @@ flask run
 
 ### Create
 <p align="center" width="100%">
-    <img width="60%" src="./images/Create.png">
+    <img width="80%" src="./images/Create.png">
 </p>
 
 ### Read
 
 - Read All
 <p align="center" width="100%">
-    <img width="60%" src="./images/Read1.png">
+    <img width="80%" src="./images/Read1.png">
 </p>
 
 - Read One
 <p align="center" width="100%">
-    <img width="60%" src="./images/Read2.png">
+    <img width="80%" src="./images/Read2.png">
 </p>
 
 ### Update
 <p align="center" width="100%">
-    <img width="60%" src="./images/Update.png">
+    <img width="80%" src="./images/Update.png">
 </p>
 
 ### Delete
 <p align="center" width="100%">
-    <img width="60%" src="./images/Delete.png">
+    <img width="80%" src="./images/Delete.png">
 </p>
